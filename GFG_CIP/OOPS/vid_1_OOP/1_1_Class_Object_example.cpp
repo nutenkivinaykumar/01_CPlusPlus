@@ -41,10 +41,12 @@
 using namespace std;
 
 class Complex{
-    private:                    // Functions inside the class can only access the private members. 
-        int real;               // Use set or get functions to edit or fetch these details. 
-        int imag;               // This is called ABSTRACTION. 
+    private:
+        //Data Members          // Functions inside the class can only access the private members.
+        int real;               // Use set or get functions to edit or fetch these details.
+        int imag;               // This is called ABSTRACTION.
     public:
+        // Member Functions()
         void print(){
             cout << real << "+i" << imag << endl;
         }
@@ -56,7 +58,9 @@ class Complex{
 
 int main()
 {
+    // Declare an Object c1 of Class Complex.
     Complex c1(10, 15);
+    // Accessing member function.
     c1.print();
     return 0;
 }
