@@ -21,9 +21,8 @@ Ex:
     
     b. Control Abstraction - shows the required information about the implementation and hides unnecessary information
 
-      i. Abstraction using Classes. 
+      i. Abstraction using Classes. Access Specifiers. Public, Private, and Protected.
      ii. Abstraction using Header files. 
-    iii. Abstraction using Access Specifiers. Public, Private, and Protected. 
 
 **5. Polymorphism**  https://www.geeksforgeeks.org/cpp-polymorphism/
     - One/Same name multiple functionalities.
