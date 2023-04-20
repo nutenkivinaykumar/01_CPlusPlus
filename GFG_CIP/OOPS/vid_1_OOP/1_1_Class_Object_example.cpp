@@ -43,14 +43,14 @@ using namespace std;
 class Complex{
     private:
         //Data Members          // Functions inside the class can only access the private members.
-        int real;               // Use set or get functions to edit or fetch these details.
+        int real;               // We need to use set or get functions to edit or fetch these details outside this class.
         int imag;               // This is called ABSTRACTION.
     public:
         // Member Functions()
         void print(){
             cout << real << "+i" << imag << endl;
         }
-        Complex(int r, int i){  // Constructor: Function name is same as class name. 
+        Complex(int r, int i){  // Constructor: Function name is same as class name and it does not have any return type. 
             real = r;           // Constructors are Called when we create object of this class. 
             imag = i;           // Useful to Initialize variables, or Error checking. 
         }
