@@ -1,9 +1,10 @@
 # Definitions
+__________________________________________________________________________________
 
 **1. Class**
     
     - Class is a user-defined data type, which holds its own data member and member functions, which can be accessed and used by creating an instance of that class. 
-
+==================================================================================
 **2. Object**
     
     - Variable/Instance of a Class. 
@@ -11,11 +12,11 @@
 Ex: 
         **int**-(datatype) **x**-(variable);
         **Class**-(datatype) **Object**-(variable);
-
+==================================================================================
 **3. Inheritance**
     
     - Inheritance is a feature or a process in which, new classes are created from the existing classes. The new class created is called “derived class” or “child class” and the existing class is known as the “base class” or “parent class”.
-
+==================================================================================
 **4. Abstraction**
     
     - Technique of hiding few things/funtionalities of a class.
@@ -28,7 +29,7 @@ Ex:
 
       i. Abstraction using Classes. Access Specifiers. Public, Private, and Protected.
      ii. Abstraction using Header files. 
-
+==================================================================================
 **5. Polymorphism**  https://www.geeksforgeeks.org/cpp-polymorphism/
     
     - One/Same name multiple functionalities.
@@ -38,27 +39,38 @@ Ex:
         b. Operator Overloading
     ii. Run Time / Dynamic Polymorphism
         a. Virtual Functions
-
+==================================================================================
 **6. Encapsulation**
     
     - Binding of data members and member functions together.
-
+==================================================================================
 **7. Constructor**
     
-    - A special method that is automatically called when an object of a class is created.
+       i. A special method that is automatically called when an object of a class is created.
     
-    - It has same name as the Class name, and does not have any return type statement. 
+      ii. It has same name as the Class name, and does not have any return type statement. 
 
-    - Useful to Initialize variables, or Error checking.
+     iii. Useful to Initialize variables, or Error checking.
 
+**i. Initializer list**
+    - Constructors which uses Initializer List perform better compared to Normal constructor. 
+    
+    Example: Concepts_Code\C++ OOPS\vid_2_Constructors_Destructors\2_3_Normal_constructor_VS_initializer_list.cpp Update with github path
+
+**ii. Copy Constructor** 
+    - Copy constructors are special functions which are called when an object is created from an Existing object. 
+
+    - example: Test t2(t1);// Creating t2 from "t1 = Test t2=t1;"
+==================================================================================
 **8. Destructors**
 
     - 
 
 
-
+==================================================================================
 # Questions or Points to be noted: 
 
+==================================================================================
 # TO-DO: 
 
 **Inheritance**
@@ -67,3 +79,4 @@ Ex:
 2. Member fn's wihtout and with arguments - within and outside the class examples after - This pointer video. 
     a. examples from: https://www.geeksforgeeks.org/inheritance-in-c/
     
+----------------------------------------------------------------------------------
