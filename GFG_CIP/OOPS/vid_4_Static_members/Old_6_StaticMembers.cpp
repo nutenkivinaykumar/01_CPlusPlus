@@ -8,6 +8,7 @@ Static data members are special members shared among all objects.
 2. Static Functions
     - Used to modify static data members/variables. 
     - Static members are not allowed to access the non-static part. However Non static functions can access static data. 
+    - Normal functions can also access static data members and modify them, but it doesn't look good and its recommended to use Static functions only.
 3. Static members do not have this pointers. Since they are called on a class and are modifying class specific data. 
     - While this pointer is a pointer to an object. 
 */
