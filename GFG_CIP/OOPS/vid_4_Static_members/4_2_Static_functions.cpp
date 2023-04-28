@@ -16,7 +16,6 @@ class Player{
         Player(){count++;}
         ~Player(){count--;}
         static int getCount(){return count;}
-        
 };
 
 int Player :: count = 0;

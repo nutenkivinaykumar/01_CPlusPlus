@@ -28,9 +28,14 @@ int main()
 {
     Player p1;
     cout << Player :: count << " "; // Count variable(Static data member) is accessed directly using the class name. Recommended way of using Static Data Members or Static variables. 
-    cout << p1.count; // Not a recommended way. 
+    cout << p1.count << " "; // Not a recommended way. 
     Player p2;
     cout << Player :: count << " ";
-    
+    {
+        Player p3; 
+        cout << Player :: count << " "; 
+    }
+    cout << Player :: count << " "; 
+
     return 0;
 }
