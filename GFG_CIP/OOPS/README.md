@@ -95,11 +95,14 @@ ________________________________________________________________________________
 **10. Static Members - (Static Data Members / Static Functions)**
 
     - 
-
+__________________________________________________________________________________
+**No . Multiple-inheritance, Multi-Level inheritance**
 # Questions or Points to be noted: 
 
 1. Ideally Data Members of a Class should not be public. 
 
+
+**No. Friend Function and Friend Class in C++**
 ==================================================================================
 
 # TO-DO: 
@@ -112,4 +115,7 @@ ________________________________________________________________________________
 
 **Virtual functions**
 1. Examples or usage requirement of a virtual function
+
+**Operator Overloading**
+1. Make examples from CPP NUTS and other sites. 
 ----------------------------------------------------------------------------------

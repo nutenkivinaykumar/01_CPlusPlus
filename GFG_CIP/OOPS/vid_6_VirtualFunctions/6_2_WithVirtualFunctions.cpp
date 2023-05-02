@@ -38,6 +38,6 @@ This is called function overriding. Which is different from function overloading
 function overriding runtime polymorphism. Function overloading compile time polymorphism. 
 
 
-To implement virtual functions extra work is done by CPU, more CPU cycles. 
+To implement virtual functions extra work is done by CPU, more CPU cycles. because of VPTR and Vtable
 Unless we are working in a VERY TIME RESTRICTED ENVIRONMENT, we need not worry and use Virtual functions 
 */
