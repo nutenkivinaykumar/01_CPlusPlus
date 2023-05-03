@@ -8,7 +8,7 @@
 **Inheritance**
 
 1. write example for multi-level inheritance, Multiple inheritance.(Upcoming videos)
-2. Member fn's wihtout and with arguments - within and outside the class examples after - This pointer video. 
+2. Member fn's without and with arguments - within and outside the class examples after - This pointer video. 
     a. examples from: https://www.geeksforgeeks.org/inheritance-in-c/
 
 **Virtual functions**
@@ -16,4 +16,6 @@
 
 **Operator Overloading**
 1. Make examples from CPP NUTS and other sites. 
+
+**Virtual Destructor**
 ----------------------------------------------------------------------------------

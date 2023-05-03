@@ -12,9 +12,9 @@ ________________________________________________________________________________
     -   Class is a user-defined data type, which holds its own data member and member functions, which can be accessed and used by creating
         an instance of that class. 
 
-__________________________________________________________________________________
 
-**2. Object**
+
+#### 2. Object
     
     -   Variable/Instance of a Class. 
 
@@ -24,14 +24,14 @@ Ex:
 
 __________________________________________________________________________________
 
-**3. Inheritance**
+#### 3. Inheritance
     
     -   Inheritance is a feature or a process in which, new classes are created from the existing classes. The new class created is called 
         “derived class” or “child class” and the existing class is known as the “base class” or “parent class”.
 
 __________________________________________________________________________________
 
-**4. Abstraction**
+#### 4. Abstraction
     
     -   Technique of hiding few things/funtionalities of a class.
     
@@ -48,7 +48,8 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-**5. Polymorphism**  https://www.geeksforgeeks.org/cpp-polymorphism/
+#### 5. Polymorphism  
+    (https://www.geeksforgeeks.org/cpp-polymorphism/)
     
     - One/Same name multiple functionalities.
 
@@ -60,13 +61,13 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-**6. Encapsulation**
+#### 6. Encapsulation
     
     - Binding of data members and member functions together.
 
 __________________________________________________________________________________
 
-**7. Constructor**
+#### 7. Constructor
     
        i. A special method that is automatically called when an object of a class is created.
     
@@ -86,27 +87,27 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-**8. Destructors**
+#### 8. Destructors
 
     - 
 
 
 __________________________________________________________________________________
 
-**9. This pointer**
+#### 9. This pointer
 
     - Used for Chaining of functions
 
 __________________________________________________________________________________
 
-**10. Static Members - (Static Data Members / Static Functions)**
+#### 10. Static Members - (Static Data Members / Static Functions)
 
     - 
 __________________________________________________________________________________
-**S.No . Multiple-inheritance, Multi-Level inheritance**
-# Questions or Points to be noted: 
+#### S.No . Multiple-inheritance, Multi-Level inheritance
+    Questions or Points to be noted: 
 
 1. Ideally Data Members of a Class should not be public. 
 
 
-**S.No. Friend Function and Friend Class in C++**
+#### S.No. Friend Function and Friend Class in C++
