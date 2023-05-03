@@ -44,7 +44,7 @@ ________________________________________________________________________________
         i. Abstraction using Classes. Access Specifiers. Public, Private, and Protected.
         ii. Abstraction using Header files. 
 
-![Alt text](CPlusPlus/GFG_CIP/OOPS/vid_1_OOP/cpp-data-abstraction.png?raw=true "Title")
+![any Text](https://github.com/nutenkivinaykumar/CPlusPlus/blob/main/GFG_CIP/OOPS/vid_1_OOP/cpp-data-abstraction.png?raw=true "Title1")
 
 __________________________________________________________________________________
 
