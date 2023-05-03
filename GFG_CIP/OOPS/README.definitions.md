@@ -7,7 +7,7 @@
 
 __________________________________________________________________________________
 
-**1. Class**
+#### 1. Class
     
     -   Class is a user-defined data type, which holds its own data member and member functions, which can be accessed and used by creating
         an instance of that class. 
