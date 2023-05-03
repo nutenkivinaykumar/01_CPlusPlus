@@ -41,8 +41,10 @@ ________________________________________________________________________________
     
     b. Control Abstraction - shows the required information about the implementation and hides unnecessary information
 
-      i. Abstraction using Classes. Access Specifiers. Public, Private, and Protected.
-     ii. Abstraction using Header files. 
+        i. Abstraction using Classes. Access Specifiers. Public, Private, and Protected.
+        ii. Abstraction using Header files. 
+
+        ![](CPlusPlus/GFG_CIP/OOPS/vid_1_OOP/cpp-data-abstraction.png)
 
 __________________________________________________________________________________
 
