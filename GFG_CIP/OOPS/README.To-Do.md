@@ -18,4 +18,35 @@
 1. Make examples from CPP NUTS and other sites. 
 
 **Virtual Destructor**
-----------------------------------------------------------------------------------
+_____________________________________________________________
+
+## OOPS Video files Revision 1. 
+
+1. Abstraction:
+    -   Add example of set and get function
+    -   https://github.com/nutenkivinaykumar/CPlusPlus/blob/94c5100d13afc8cec7fdd522c135baa45147338c/GFG_CIP/OOPS/vid_1_OOP/1_1_Class_Object_example.cpp#L17
+**DONE - UPDATE in the above link** 
+Update: 
+
+https://github.com/nutenkivinaykumar/CPlusPlus/blob/main/GFG_CIP/OOPS/vid_1_OOP/1_2_Get_Set_Class_Abstraction_example.cpp
+
+2. Encapsulation: 
+    -   Definition and example from other sites. 
+    -   Same link as above, #L21
+3. Inheritance: 
+    -   Write example with Parent(: Shape class - Color, width of edges, location) and Child class(: Child Class - Rectangle, Triangle, Circle. ) as mentioned
+    -   Same link, #L25
+4. Polymorphism: 
+    -   Examples, Static/CompileTime Polymorphism and Dynamic/Runtime Polymorphism
+    -   same link, #L33
+5. Refer * and & from Dynamic memory allocation and Reference to understand Deep copy constructor. 
+    -   https://github.com/nutenkivinaykumar/CPlusPlus/blob/94c5100d13afc8cec7fdd522c135baa45147338c/GFG_CIP/OOPS/vid_2_Constructors_Destructors/2_5_Deep_Copy_constructor.cpp#L14
+6. In Copy constructor, is "Point& rhs == Point &rhs"? as mentioned in the below link. 
+    -   https://github.com/nutenkivinaykumar/CPlusPlus/blob/94c5100d13afc8cec7fdd522c135baa45147338c/GFG_CIP/OOPS/vid_2_Constructors_Destructors/OLD_2_0_Constructors.cpp#L42
+7. Add SYNTAX FOR ALL THE DEFINITIONS OR IN CPP FILES. 
+8. Write clear example of giving * and & in 
+    a.  the attributes(Primitive or Userdefined datatypes) while defining a function, 
+        -   Link for userdefined attributes &: https://github.com/nutenkivinaykumar/CPlusPlus/blob/94c5100d13afc8cec7fdd522c135baa45147338c/GFG_CIP/OOPS/vid_2_Constructors_Destructors/OLD_2_0_Constructors.cpp#L19
+    b.  Prefix of name while defining a function. 
+    c.  in the return statement of a funciton. 
+    d. 

@@ -9,7 +9,7 @@ class Point{
            
         }
         Point(int x1, int y1) : x(x1), y(y1){ // Using intializer list to initialize members. 
-            
+                             // x =x1; y=y1; // is equal to
         }
         void print(){
             cout << x << " " << y << endl;

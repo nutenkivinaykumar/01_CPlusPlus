@@ -12,7 +12,7 @@ ________________________________________________________________________________
     -   Class is a user-defined data type, which holds its own data member and member functions, which can be accessed and used by creating
         an instance of that class. 
 
-
+__________________________________________________________________________________
 
 #### 2. Object
     
@@ -37,9 +37,9 @@ ________________________________________________________________________________
     
     -   Abstraction means displaying only essential information and hiding the details
 
-    a. Data Abstraction - shows the required information about the data and hides the unnecessary data
+    a. DATA ABSTRACTION - shows the required information about the data and hides the unnecessary data
     
-    b. Control Abstraction - shows the required information about the implementation and hides unnecessary information
+    b. CONTROL ABSTRACTION - shows the required information about the implementation and hides unnecessary information
 
         i. Abstraction using Classes. Access Specifiers. Public, Private, and Protected.
         ii. Abstraction using Header files. 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
     
        i. A special method that is automatically called when an object of a class is created.
     
-      ii. It has same name as the Class name, and does not have any return type statement. 
+      ii. It has same name as the Class name, and DOES NOT HAVE ANY RETURN TYPE STATEMENT. 
 
      iii. Useful to Initialize variables, or Error checking.
 
@@ -85,6 +85,19 @@ ________________________________________________________________________________
 
     - example: Test t2(t1);// Creating t2 from "t1 = Test t2=t1;"
 
+        i.  Shallow Copy
+        ii. Deep Copy
+        Syntax for User-defined Copy Constructor: 
+        class_name(const class_name &old_object);
+
+        Ex: 
+            class A  
+            {  
+                A(A &x) //  copy constructor.  
+            {  
+                // copyconstructor.  
+            }  
+            }   
 __________________________________________________________________________________
 
 #### 8. Destructors
