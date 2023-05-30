@@ -13,9 +13,9 @@
 08. Simple Calculator
 09. Leap Year
 10. Functions in C++                    : Done - 6:48 - Function Syntax
-11. How Functions Work in C++?
+11. How Functions Work in C++?          : Done - Need To-Do the function example
 12. Function declaration & definition
-13. Default Arguments in C++ Functions
+13. Default Arguments in C++ Functions  : Done
 14. Inline Function
 15. Function Overloading 
 16. Practice Problems on C++ Functions

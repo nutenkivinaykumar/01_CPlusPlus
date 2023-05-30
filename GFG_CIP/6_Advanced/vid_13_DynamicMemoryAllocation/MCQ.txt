@@ -1,0 +1,10 @@
+Q.  Which of the following is/are valid ways to allocate memory for an integer by dynamic memory allocation in CPP?
+- Published on 17 Jul 15
+
+a. int *p = new int(100);
+b. int *p; p = new int; *p = 100;
+c. int *p = NULL; p = new int; *p=100;
+d. Only 1,2
+e. All of these
+
+ANSWER: All of these
