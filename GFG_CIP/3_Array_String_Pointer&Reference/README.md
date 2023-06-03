@@ -26,8 +26,8 @@
 23. nullptr in C++                                  :Duration: 3 min, 30 sec
 24. Pointer Arithmetic                              :Duration: 8 min, 15 sec
 25. Pointer Practice Questions                      :Duration: 6 min, 2 sec
-**26. Multidimensional array in CPP                   :Duration: 14 min, 7 sec**
-**27. Passing 2D arrays as arguments in CPP           :Duration: 11 min, 9 sec**
+**26. Multidimensional array in CPP                 :Duration: 14 min, 7 sec**
+**27. Passing 2D arrays as arguments in CPP         :Duration: 11 min, 9 sec**
 28. Transpose of a Matrix                           :Duration: 4 min, 25 sec
 29. Matrix Multiplication                           :Duration: 4 min, 12 sec
 30. String in C++ (Introduction)                    :Duration: 3 min,
