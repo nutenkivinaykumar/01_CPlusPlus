@@ -24,7 +24,7 @@ void editAndPrint(string &&s)
 }
 int main()
 {
-    print("Welcome to GeeksforGeeks");
+    print("Welcome to GeeksforGeeks"); // Usually if it is a "L-Value Reference" we won't be able to pass string here, instead, we need to pass a string variable which is assigned to a string
     editAndPrint("Welcome to GeeksforGeeks");
     return 0;
 }
