@@ -1,5 +1,5 @@
 /*
-Interesting FActs about Default Arguments: 
+Interesting Facts about Default Arguments: 
     1. All default arguments must appear at the end. 
         -   ex: void printDetails(int id, string name = "NA", string address)
             *   If we write a default argument in the middle, we will get compiler error. 
