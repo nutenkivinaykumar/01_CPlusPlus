@@ -8,6 +8,10 @@
     a. write examples for user defined data types. 
 4. Function Returning Reference    // Check the Questions on References topic in notes. 
 5. Function Returning Pointer      // Check the examples of Dynamic memory allocation in notes. 
-6. Creating 2D arrays in C and C++ Style
-7. Passing 2D arrays to functions
+6. Creating 2D arrays in C and C++ Style    // from Module 3: Ch - 26
+7. Passing 2D arrays to functions           // from Module 3: Ch - 27
 8. Basics of OOPs
+
+
+# To-Do
+1. Point 3 section a
