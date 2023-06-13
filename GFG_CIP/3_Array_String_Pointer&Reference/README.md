@@ -44,6 +44,8 @@
 41. Pattern Searching                               :Duration: 3 min, 25 sec
 
 # Important
-15. MOST IMPORTANT: Example 2_functionReturningReferenceOfStaticVariable.cpp
-26. Multidimensional array in CPP                 :Duration: 14 min, 7 sec
-27. Passing 2D arrays as arguments in CPP         :Duration: 11 min, 9 sec
+15_MOST IMPORTANT: Example 2_functionReturningReferenceOfStaticVariable.cpp
+
+26_Multidimensional array in CPP                 :Duration: 14 min, 7 sec
+
+27_Passing 2D arrays as arguments in CPP         :Duration: 11 min, 9 sec
