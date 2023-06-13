@@ -42,5 +42,12 @@ int main()
     return 0;
 }
 
+/*
+Output: for this commented code
+0
+1
+2
+
+*/
 
 */
