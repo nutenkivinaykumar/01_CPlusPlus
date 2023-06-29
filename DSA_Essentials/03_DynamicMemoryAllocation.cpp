@@ -39,6 +39,15 @@ Syntax:
 #include <iostream>
 using namespace std; 
 
+// Custom data type
+struct cust
+{
+    int p;
+    cust(int q) : p(q) {}
+    cust() = default;
+    //cust& operator=(const cust& that) = default;
+};
+
 int main(){
 
     // pointer-variable = new data-type(value); For custom data types, a constructor is required (with the data type as input) for initializing the value.
@@ -47,6 +56,20 @@ int main(){
     cout << *ptr << endl; // Output: 5
 
     int *p = new int[10];
+
+    ///////////////////////////////////////////////////////////////////////////////////////////
+
+    // Works fine, doesn’t require constructor
+    cust* var1 = new cust;
+ 
+    //OR
+ 
+    // Works fine, doesn’t require constructor
+    var1 = new cust();
+ 
+    // Notice error if you comment this line
+    cust* var = new cust(25);
+    return 0;
 
 }
 
