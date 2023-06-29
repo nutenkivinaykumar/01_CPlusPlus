@@ -21,3 +21,33 @@ int main()
         cout << s << '\n';
     return 0;
 }
+
+/*
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int arr[] = {10, 20, 30};
+    
+    for(int i = 0; i < 3; i++){
+        arr[i] = i; 
+    }
+    
+    for(int i = 0; i < 3; i++){
+        cout << arr[i] << endl; 
+    }
+    return 0;
+}
+
+/*
+Output: for this commented code
+0
+1
+2
+
+*/
+
+*/
