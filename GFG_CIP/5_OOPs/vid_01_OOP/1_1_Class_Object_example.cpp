@@ -15,6 +15,7 @@
     
     Example:    Refer code. 
                 TO-DO: Add an example with set and get functions and use these in main function. 
+                Done: 1_2_Get_Set_Class_Abstraction_example.cpp
 
 3. ENCAPSULATION:   Whole idea of creating a class. Bundling Class, Data members and Functions together. 
                     Put Related data and functions together. 
@@ -25,12 +26,15 @@
     Example: TO-DO - write an example Parent: Shape class - Color, width of edges, location,
                                       Child : Child Class - Rectangle, Triangle, Circle. 
              Or any other good example from internet. 
+             Done: 1_4_Inheritance_example.cpp - CommonInformation, MPC_Student, BiPC_Student
 
 5. POLYMORPHISM: One/Same name multiple functionalities. 
 
-    i.  Static Polymorphism. Ex: Function Overloading - Two fns with same names, one to find max of 2 and other for 3 integers. 
-                            Depending upon the parameters passed to that function. With Default arguments also this can be achieved - Include in example. 
+    i.  Static/Compile_time Polymorphism. Ex: Function Overloading - Two fns with same names, one to find max of 2 and other for 3 integers. 
+                            Depending upon the parameters passed to that function. With Default arguments also this can be achieved - ????????????
                             TO-DO: Write examples. 
+                            Done: 1_5_StaticORCompileTimePolymorphism.cpp
+                            
     ii. Dynamic/Runtime Polymorphism. Upcoming videos. Virtual Functions may be related.
 
 */
