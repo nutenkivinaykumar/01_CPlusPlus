@@ -12,7 +12,8 @@
 7. Passing 2D arrays to functions           // from Module 3: Ch - 27
 8. PointersVersusArrays                     // from Module 3: Ch - 21
 9. Optional: Array parameters and Pointers  // from Module 3: Ch - 20
-10. Basics of OOPs
+10. Null Pointer in C++                     // from Module 3: Ch - 23
+11. Basics of OOPs
 
 
 # To-Do
