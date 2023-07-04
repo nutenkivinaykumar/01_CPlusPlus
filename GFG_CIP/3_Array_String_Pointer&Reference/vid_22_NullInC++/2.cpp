@@ -12,7 +12,7 @@ int main(){
 Compilation error
 
 int main(){
-    int *ptr = 10; 
+    int *ptr = 10;  // This will work: int *ptr = new int(10); 
     return 0; 
 }
 
