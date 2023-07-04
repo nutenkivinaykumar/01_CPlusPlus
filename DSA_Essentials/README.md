@@ -10,7 +10,9 @@
 5. Function Returning Pointer      // Check the examples of Dynamic memory allocation in notes. 
 6. Creating 2D arrays in C and C++ Style    // from Module 3: Ch - 26
 7. Passing 2D arrays to functions           // from Module 3: Ch - 27
-8. Basics of OOPs
+8. PointersVersusArrays                     // from Module 3: Ch - 21
+9. Optional: Array parameters and Pointers  // from Module 3: Ch - 20
+10. Basics of OOPs
 
 
 # To-Do
