@@ -10,6 +10,9 @@ void fun(int *p){
 void fun(string *p){
     cout << *p;
 }
+void fun(int &x){
+    // To-do:  Finish this example also. 
+}
 int main()
 {
     int x = 10;
