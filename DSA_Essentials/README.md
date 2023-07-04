@@ -13,7 +13,8 @@
 8. PointersVersusArrays                     // from Module 3: Ch - 21
 9. Optional: Array parameters and Pointers  // from Module 3: Ch - 20
 10. Null Pointer in C++                     // from Module 3: Ch - 23
-11. Basics of OOPs
+11. Pointer Arithmetic                      // from Module 3: Ch - 24
+12. Basics of OOPs
 
 
 # To-Do
