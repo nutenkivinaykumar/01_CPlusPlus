@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    int a[] = {1, 2, 3};
+    int a[] = {1, 2, 3};// printing: a, &a, &(a[0]) :- all the three return same address. but int *p3 = &a[0]; - valid // int *p3 = a; - valid // int *p3 = &a; - NotValid //
+                           // Because, a and &(a[0]) return address of first element only, whereas &a returns to address of 3 elements(length of that array) starting from first elements address.
     int *p1 = a;
     int (*p2)[3] = &a; // here this means Pointer to a block of size 3 => p2 which stores array a's address.
                         // here if brackets are removed, i.e, int (*p2)[3] = &a; => int *p2[3], then RHS is an array of pointers. 
